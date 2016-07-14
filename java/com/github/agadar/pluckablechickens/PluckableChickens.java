@@ -36,10 +36,4 @@ public class PluckableChickens
 		// Register event handlers.
 		MinecraftForge.EVENT_BUS.register(new HandlerChickenIntercept());
 	}
-
-	@Mod.EventHandler
-	public void init(FMLInitializationEvent event)
-	{
-		
-	}
 }
