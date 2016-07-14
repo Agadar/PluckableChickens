@@ -1,0 +1,18 @@
+[
+{
+  
+"modid": "pluckablechickens",
+  
+"name": "PluckableChickens",
+  
+"description": "This mod makes chickens pluckable, allowing you to farm them for feathers.",
+  
+"version": "${version}",
+  
+"mcversion": "${mcversion}",
+  
+"authorList": ["Agadar"]
+, 
+"url":"tba"
+}
+]
